@@ -1,6 +1,8 @@
 # Fashion Class Classification
 
-Fashion Class Classification based on convolutional neural network &amp; deep learning 
+<img src="https://github.com/I2S9/Fashion-class-classification/assets/111307883/02fa2040-0de4-4072-96a0-a2572d874cbd" width="800">
+
+**Fashion Class Classification** based on convolutional neural network &amp; deep learning 
 
 The fashion industry is undergoing a dramatic transformation by adopting new computer vision and ML and deep learning techniques.
 
@@ -22,33 +24,27 @@ Our Dataset for fashion consists of 70.000 images (28x28 grayscale) with :
 
 In addition, we have at our disposal 10 target class : 
 
-- t-shirt/top
-
-- trouser
-
-- pullover
-
-- dress
-
-- coat
-
-- sandal
-
-- shirt 
-
-- sneaker
-
-- bag
-
-- ankle
-
-- boot
+t-shirt/top - trouser - pullover - dress - coat - sandal - shirt - sneaker - bag - ankle - boot
 
 ## What's an image ?
 
-A greyscale image is a system of 256 tones with values ranging from 0-255, 0 represents black and 255 represents white. Numbers in-between represents gerys between black and white. Binary sistem use digits '0' and '1' chere '00000000' for black and '11111111' for white (8-bit image).
+<p align="center">
+  <img src="https://github.com/I2S9/Fashion-class-classification/assets/111307883/87a21275-6617-4b8b-8fe6-5942da1871b8" width="900">
+</p>
 
-Binary value of '11111111' is equal to decimal value of '255'
+<p align="justify">
+  A greyscale image is a system of 256 tones with values ranging from 0-255, 0 represents black and 255 represents white. Numbers in-between represents gerys between black and white. Binary sistem use digits '0' and '1' chere '00000000' for black and '11111111' for white (8-bit image).
+
+  Binary value of '11111111' is equal to decimal value of '255'
+</p>
+
+<p align="center">
+  <img src="https://github.com/I2S9/Fashion-class-classification/assets/111307883/7de8acae-e4ef-452a-8cd1-8b2b6f4c81cb" width="300">
+</p>
+
+
+
+
 
 ## Our Fashion Dataset 
 
