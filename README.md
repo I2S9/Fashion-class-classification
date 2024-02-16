@@ -57,3 +57,14 @@ Each image is represented by a row with 784 (i.e 28x28) values
 * The neuron collects signals from input channels named dendrites, processes information in its nucleus, and then generates an output in a long thin branch called the axon.
 
 * Human learning occurs adaptively by varying the bond strength between these neurons.
+
+## Convolutional neural network feature detector
+
+
+* Convolutions use a kernel matrix to scan a given image and apply a filter to obtain a certain effect.
+
+* An image Kernel is a matrix used to apply effects such as blurring and sharpening.
+
+* Kernels are used in machine learning for _*feature extraction*_ to select most important pixels of an image.
+
+* Convolution preserves the spatial relationship between pixels.
