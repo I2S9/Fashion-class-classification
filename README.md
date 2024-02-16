@@ -43,9 +43,6 @@ t-shirt/top - trouser - pullover - dress - coat - sandal - shirt - sneaker - bag
 </p>
 
 
-
-
-
 ## Our Fashion Dataset 
 
 Fashion dataset contains 28x28 greyscale image with values ranging from 0-255
@@ -53,3 +50,10 @@ Fashion dataset contains 28x28 greyscale image with values ranging from 0-255
 '0' represents black and '255' represents white
 
 Each image is represented by a row with 784 (i.e 28x28) values 
+
+
+## Artificial Neural Network basics
+
+* The neuron collects signals from input channels named dendrites, processes information in its nucleus, and then generates an output in a long thin branch called the axon.
+
+* Human learning occurs adaptively by varying the bond strength between these neurons.
