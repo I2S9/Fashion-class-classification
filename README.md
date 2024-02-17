@@ -89,7 +89,3 @@ Each image is represented by a row with 784 (i.e 28x28) values
 * Max pooling works by retaining the **maximum feature response** within a given sample size in a feature map
 
 ![convolutional-neural-network](https://github.com/I2S9/Fashion-class-classification/assets/111307883/42d8ce4e-7f38-4f59-a418-4d64d23cea1e)
-
-
-* 
-
