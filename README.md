@@ -68,3 +68,28 @@ Each image is represented by a row with 784 (i.e 28x28) values
 * Kernels are used in machine learning for _*feature extraction*_ to select most important pixels of an image.
 
 * Convolution preserves the spatial relationship between pixels.
+
+## Convolutional neural network - RELU
+
+* RELU layers are used to add non-linearity in the feature map
+
+* It also enhances the sparsity or how scattered the feature map is
+
+
+![neural-networks](https://github.com/I2S9/Fashion-class-classification/assets/111307883/aedb9298-ab20-4f87-bbfb-f39394c74b02)
+
+## Convolutional neural network - maxpolling/flattening
+
+* Pooling or down sampling layers are placed after convolutional layers to **reduce feature map dimensionality**
+
+* This improves the computational efficiency while preserving the features
+
+* Pooling helps the model to generalize by avoiding overfitting. If one of the pixel is shifted, the pooled feature map will still be the same
+
+* Max pooling works by retaining the **maximum feature response** within a given sample size in a feature map
+
+![convolutional-neural-network](https://github.com/I2S9/Fashion-class-classification/assets/111307883/42d8ce4e-7f38-4f59-a418-4d64d23cea1e)
+
+
+* 
+
