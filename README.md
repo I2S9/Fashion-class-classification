@@ -1,18 +1,14 @@
 # Fashion Class Classification
 
-<img src="https://github.com/I2S9/Fashion-class-classification/assets/111307883/02fa2040-0de4-4072-96a0-a2572d874cbd" width="800">
+<img src="https://github.com/I2S9/Fashion-class-classification/assets/111307883/02fa2040-0de4-4072-96a0-a2572d874cbd" width="830">
 
-**Fashion Class Classification** based on convolutional neural network &amp; deep learning 
+### **Project** : **Fashion Class Classification** based on convolutional neural network &amp; deep learning 
 
-The fashion industry is undergoing a dramatic transformation by adopting new computer vision and ML and deep learning techniques.
+<p align="justify">
+The fashion industry is undergoing a dramatic transformation by adopting new computer vision and ML and deep learning techniques. We're going to use the Fashion MNIST data that contains images like dress, bags and shoes We want to build a model (based on deep learning & machine learning model) that look at an image and tell us what type of clothes. We can do target marketing to specific customer
+</p>
 
-We're going to use the Fashion MNIST data that contains images like dress, bags and shoes
-
-We want to build a model (based on deep learning & machine learning model) that look at an image and tell us what type of clothes
-
-We can do target marketing to specific customer
-
-**Objective** : build a classifier, build a kind of a deep learning network that can look at these images and can tell us the category of clothes
+### **Objective** : build a classifier, build a kind of a deep learning network that can look at these images and can tell us the category of clothes
 
 ## MNIST Dataset
 
