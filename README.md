@@ -12,6 +12,10 @@ The fashion industry is undergoing a dramatic transformation by adopting new com
 
 ## MNIST Dataset
 
+You can download the dataset at this address : [Fashion MNIST Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+
+### Dataset MNIST
+
 Our Dataset for fashion consists of 70.000 images (28x28 grayscale) with :
 
 * 60.000 training
